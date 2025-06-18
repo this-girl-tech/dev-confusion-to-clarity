@@ -1,7 +1,5 @@
 # 🧭 Dev Path Confusion
 
-> A personal repo sharing all the confusion I faced as a self-taught developer — and what I’d do differently now.
-
 This is not a tutorial repo.
 
 This is about the real questions I had in my mind when I was trying to learn to code:  
