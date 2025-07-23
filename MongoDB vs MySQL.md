@@ -1,3 +1,5 @@
+MongoDB vs MySQL — Which One Should You Use?
+
 ❓ My Confusion:
 Some tutorials used MongoDB, others used MySQL. I had no idea what was right for a beginner.
 NoSQL? Relational? Indexes? It felt overwhelming.
